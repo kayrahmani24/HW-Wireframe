@@ -1,0 +1,124 @@
+body {
+	background-color: #777;
+	
+}
+
+header {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 18px;
+    width: 960px;
+    height: 60px;
+    padding-top: 40px;
+  	margin-bottom: 50px;
+	position: absolute;
+	left: 15%;
+    background-color: #ebebeb;
+    text-align: center;
+
+
+}
+
+nav {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 18px;
+    width: 960px;
+    height: 60px;
+    padding-top: 40px;
+  	margin-bottom: 50px;
+	position: absolute;
+	left:15%;
+	top: 120px;
+    background-color: #ebebeb;
+    text-align: center;
+    
+}
+
+section {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 18px;
+    width: 495px;
+    height: 27%;
+    padding: 20px;
+  	margin-bottom: 20px;
+	position: absolute;
+	left:15%;
+	top: 240px;
+    background-color: #ebebeb;
+    text-align: center;
+    float: left;
+	
+}
+
+aside {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 18px;
+    width:365px;
+    height: 27%;
+    padding: 20px;
+  	margin-bottom: 20px;
+	position: absolute;
+	left:53.5%;
+	top: 240px;
+    background-color: #ebebeb;
+    text-align: center;
+    float: left;
+}
+
+article {
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+    font-size: 18px;
+    width: 485px; 
+    height: 23%;
+  	margin-bottom: 50px;
+  	padding-top: 20px;
+	position: absolute;
+	left:16.7%;
+	top: 285px;
+    background-color: #777;
+    text-align: center;
+}
+
+h1	{
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+    font-size: 18px;
+    width: 447px; 
+    height: 5%;
+  	margin-bottom: 50px;
+  	padding-top: 20px;
+	position: absolute;
+	left:18%;
+	top: 325px;
+    background-color: #ebebeb;
+    text-align: center;
+}
+
+p {
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+    font-size: 18px;
+    width: 447px; 
+    height: 5%;
+  	margin-bottom: 50px;
+  	padding-top: 20px;
+	position: absolute;
+	left:18%;
+	top: 390px;
+    background-color: #ebebeb;
+    text-align: center;
+
+}
+
+
+footer {
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+    font-size: 18px;
+    width: 960px;
+    padding-top: 40px;
+    height: 60px;
+  	margin-bottom: 50px;
+	position: absolute;
+	left:15%;
+	top: 65%;
+    background-color: #ebebeb;
+    text-align: center;
+    clear: both;
+}
